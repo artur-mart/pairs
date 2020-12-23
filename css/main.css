@@ -1,0 +1,27 @@
+#WIN {
+  display: none;
+}
+.game {
+  display: flex;
+  flex-wrap: wrap;
+  width: 520px;
+  border: 1px solid black;
+  border-radius: 20px;
+  background-color: rgb(122, 64, 115);
+}
+
+.div-img {
+  width: 150px;
+  height: 150px;
+  background: Lightgray;
+  margin: 10px 10px 10px 10px;
+  border: 1px solid black;
+  border-radius: 10px;
+  cursor: pointer;
+  text-align: center;
+  line-height: 150px;
+  font-size: 3em;
+  color:Lightgray ;
+
+}
+
